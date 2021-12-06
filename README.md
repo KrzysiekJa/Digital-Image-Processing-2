@@ -12,4 +12,5 @@ m-scripts typical for MATLAB environment.
 2) Usage of Fourier transformation and filtering in frequency domain.
 3) Noise removal with usage of low pass, high pass filters and kernel filtering.
 4) Logical and morfological operations.
+5) project -> Hough transform for circle detection
 ```
