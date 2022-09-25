@@ -30,7 +30,7 @@ Python jupyter notebook (project).
 
 ![](https://github.com/KrzysiekJa/Digital-Image-Processing-2/blob/master/images/low_pass_filter.png)
 
-<br>
+<br></br>
 ![](https://github.com/KrzysiekJa/Digital-Image-Processing-2/blob/master/images/laplacian_filter.png)
 
 ###### Lab 2:
@@ -47,10 +47,10 @@ Python jupyter notebook (project).
 
 ![](https://github.com/KrzysiekJa/Digital-Image-Processing-2/blob/master/images/noisse_nebula.png)
 
-<br>
+<br></br>
 ![](https://github.com/KrzysiekJa/Digital-Image-Processing-2/blob/master/images/noisse_chip.png)
 
-<br>
+<br></br>
 ![](https://github.com/KrzysiekJa/Digital-Image-Processing-2/blob/master/images/periodical_noisse.png)
 ###### Lab 4:
 
