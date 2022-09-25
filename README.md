@@ -25,21 +25,24 @@ Python jupyter notebook (project).
 
 <br>
 ![](https://github.com/KrzysiekJa/Digital-Image-Processing-2/blob/master/images/gamma_rgb.png)
+
 ###### Lab 1:
 
 ![](https://github.com/KrzysiekJa/Digital-Image-Processing-2/blob/master/images/low_pass_filter.png)
 
 <br>
 ![](https://github.com/KrzysiekJa/Digital-Image-Processing-2/blob/master/images/laplacian_filter.png)
+
 ###### Lab 2:
 
 ![](https://github.com/KrzysiekJa/Digital-Image-Processing-2/blob/master/images/fft_original.png)
 
-<br>
+<br></br>
 ![](https://github.com/KrzysiekJa/Digital-Image-Processing-2/blob/master/images/fft_low.png)
 
-<br>
+<br></br>
 ![](https://github.com/KrzysiekJa/Digital-Image-Processing-2/blob/master/images/fft_high.png)
+
 ###### Lab 3:
 
 ![](https://github.com/KrzysiekJa/Digital-Image-Processing-2/blob/master/images/noisse_nebula.png)
