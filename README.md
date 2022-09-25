@@ -21,35 +21,35 @@ Python jupyter notebook (project).
 
 ###### Lab 0:
 
-![](https://github.com/KrzysiekJa/Digital-Image-Processing-2/blob/main/images/gamma.png)
+![](https://github.com/KrzysiekJa/Digital-Image-Processing-2/blob/master/images/gamma.png)
 
 <br>
-![](https://github.com/KrzysiekJa/Digital-Image-Processing-2/blob/main/images/gamma_rgb.png)
+![](https://github.com/KrzysiekJa/Digital-Image-Processing-2/blob/master/images/gamma_rgb.png)
 ###### Lab 1:
 
-![](https://github.com/KrzysiekJa/Digital-Image-Processing-2/blob/main/images/low_pass_filter.png)
+![](https://github.com/KrzysiekJa/Digital-Image-Processing-2/blob/master/images/low_pass_filter.png)
 
 <br>
-![](https://github.com/KrzysiekJa/Digital-Image-Processing-2/blob/main/images/laplacian_filter.png)
+![](https://github.com/KrzysiekJa/Digital-Image-Processing-2/blob/master/images/laplacian_filter.png)
 ###### Lab 2:
 
-![](https://github.com/KrzysiekJa/Digital-Image-Processing-2/blob/main/images/fft_original.png)
+![](https://github.com/KrzysiekJa/Digital-Image-Processing-2/blob/master/images/fft_original.png)
 
 <br>
-![](https://github.com/KrzysiekJa/Digital-Image-Processing-2/blob/main/images/fft_low.png)
+![](https://github.com/KrzysiekJa/Digital-Image-Processing-2/blob/master/images/fft_low.png)
 
 <br>
-![](https://github.com/KrzysiekJa/Digital-Image-Processing-2/blob/main/images/fft_high.png)
+![](https://github.com/KrzysiekJa/Digital-Image-Processing-2/blob/master/images/fft_high.png)
 ###### Lab 3:
 
-![](https://github.com/KrzysiekJa/Digital-Image-Processing-2/blob/main/images/noisse_nebula.png)
+![](https://github.com/KrzysiekJa/Digital-Image-Processing-2/blob/master/images/noisse_nebula.png)
 
 <br>
-![](https://github.com/KrzysiekJa/Digital-Image-Processing-2/blob/main/images/noisse_chip.png)
+![](https://github.com/KrzysiekJa/Digital-Image-Processing-2/blob/master/images/noisse_chip.png)
 
 <br>
-![](https://github.com/KrzysiekJa/Digital-Image-Processing-2/blob/main/images/periodical_noisse.png)
+![](https://github.com/KrzysiekJa/Digital-Image-Processing-2/blob/master/images/periodical_noisse.png)
 ###### Lab 4:
 
-![](https://github.com/KrzysiekJa/Digital-Image-Processing-2/blob/main/images/morfological.png)
+![](https://github.com/KrzysiekJa/Digital-Image-Processing-2/blob/master/images/morfological.png)
 
